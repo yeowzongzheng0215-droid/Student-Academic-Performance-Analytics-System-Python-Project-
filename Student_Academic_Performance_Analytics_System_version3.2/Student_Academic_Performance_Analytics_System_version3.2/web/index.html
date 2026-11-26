@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>EduInsight</title><link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <aside class="sidebar">
+    <div class="brand"><span class="brand-mark">E</span><span>EduInsight</span></div>
+    <div class="brand-subtitle">STUDENT ANALYTICS</div>
+    <nav>
+      <button class="nav active" data-page="dashboard"><span>▦</span> Dashboard</button>
+      <button class="nav" data-page="students"><span>⌕</span> Student Search</button>
+      <button class="nav" data-page="analytics"><span>◔</span> Analytics</button>
+      <button class="nav" data-page="reports"><span>▤</span> Reports</button>
+    </nav>
+    <div class="sidebar-bottom"><span class="status-dot"></span><span id="ai-status">Checking services…</span></div>
+    <button class="exit-button" id="exit-button"><span>×</span> Exit application</button>
+  </aside>
+  <main class="main">
+    <header class="topbar"><div><div class="eyebrow" id="crumb">OVERVIEW</div><h1 id="page-title">Dashboard</h1></div><div class="topbar-meta" id="dataset-label">Loading dataset…</div></header>
+    <section id="page" class="page"><div class="loader">Loading EduInsight…</div></section>
+  </main>
+  <div id="toast" class="toast"></div>
+  <script src="app.js"></script>
+</body></html>

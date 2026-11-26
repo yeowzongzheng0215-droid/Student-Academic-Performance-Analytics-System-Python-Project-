@@ -1,0 +1,65 @@
+
+==================================================
+          EduInsight Student Analytics Report
+==================================================
+
+Generated Report: Student Performance Analysis
+
+
+==================================================
+1. Academic Performance Summary
+==================================================
+
+Total Students          : 395
+Average Final Grade     : 10.42
+Highest Final Grade     : 20
+Lowest Final Grade      : 0
+
+
+==================================================
+2. Pass and Fail Analysis
+==================================================
+
+Pass Students           : 265
+Fail Students           : 130
+Pass Rate               : 67.09%
+Fail Rate               : 32.91%
+
+
+==================================================
+3. Student Demographic Statistics
+==================================================
+
+Male Students           : 187
+Female Students         : 208
+Urban Students          : 307
+Rural Students          : 88
+
+
+==================================================
+4. Excellent Student Analysis
+==================================================
+
+Students with Grade >=18 : 18
+
+
+==================================================
+5. Top 10 Performing Students
+==================================================
+
+Rank    ID    School    Gender    Grade
+
+1       48    GP        M         20
+2       287   GP        F         19
+3       375   MS        F         19
+4       111   GP        M         19
+5       9     GP        M         19
+6       114   GP        M         19
+7       92    GP        F         18
+8       43    GP        M         18
+9       37    GP        M         18
+10      105   GP        M         18
+
+==================================================
+End of Report
+==================================================
