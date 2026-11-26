@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:202124,55:1A73E8,100:4285F4&height=210&section=header&text=EduInsight&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Student%20Performance%20Analytics%20%26%20AI%20Feedback%20Suite&descAlignY=63&descSize=17" width="100%" alt="EduInsight Banner" />
+# 🎓 EduInsight
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=4285F4&center=true&vCenter=true&width=720&lines=Modern+Desktop+Analytics+App+Built+with+Python+%26+PyWebView;395+Student+Records+%7C+Interactive+Charts+%7C+Cohort+KPIs;Local+Ollama+LLM+Commentary+with+Rule-Based+Fallback" alt="Typing Animation" />
+### Student Performance Analytics & AI Feedback Suite
+
+*Modern Desktop Analytics App Built with Python & PyWebView • Local Ollama LLM Commentary*
 
 <br/>
 
@@ -77,7 +79,7 @@ In this 2-person group project, my primary responsibility was modernizing the de
 ### ⚖️ 4-Factor Performance Weighting (`PerformanceAnalyzer`)
 
 | Factor | Weight | Impact Scale | Evaluation Criteria |
-| :--- | :---: | :---: | :--- |
+| :--- | :---: | :--- | :--- |
 | **Previous Failures** | `38%` | `████████░░` | Primary academic risk predictor; flags need for extra support |
 | **Weekly Study Time** | `27%` | `██████░░░░` | 4-tier scale (`<2h`, `2–5h`, `5–10h`, `>10h`) |
 | **Absences** | `22%` | `█████░░░░░` | Evaluates attendance consistency and disengagement risk |
@@ -177,7 +179,5 @@ python main.py
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,55:1A73E8,100:202124&height=110&section=footer" width="100%" alt="Footer Wave" />
-
+<sub>Built with Python, Pandas, PyWebView & Ollama • UCI Student Performance Dataset</sub>
 </div>
